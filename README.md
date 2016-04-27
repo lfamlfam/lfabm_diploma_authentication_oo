@@ -1,1 +1,1 @@
-# lfabm_diploma_authentication_oo
+# lfabm_diploma_authentication
